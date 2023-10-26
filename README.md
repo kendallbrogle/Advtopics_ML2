@@ -1,4 +1,4 @@
-# adv_topics_ML_hw2
+# advtopics_ML2
 
 Problem 1 - Algorithmic Performance Scaling
 
